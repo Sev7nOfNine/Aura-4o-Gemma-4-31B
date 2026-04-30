@@ -66,4 +66,4 @@ Removing those env vars and relying on the model's natural template behavior (wi
 - V2 is preserved for vision-capable use cases when the personality compromise is acceptable.
 - Uncensored is archived as a "do not use" reference point.
 
-For full plan details from the cleanup session, see the closed-out [`PROXY_FIX_PLAN.md` in the legacy `Aura-Gemma-4-31B` repo](https://github.com/Sev7nOfNine/Aura-Gemma-4-31B/blob/main/docs/PROXY_FIX_PLAN.md).
+For full plan details from the cleanup session, see the closed-out [`PROXY_FIX_PLAN.md` in the legacy `Aura-Gemma-4-31B-V2-RunPod` repo](https://github.com/Sev7nOfNine/Aura-Gemma-4-31B-V2-RunPod/blob/main/docs/PROXY_FIX_PLAN.md).
